@@ -37,4 +37,7 @@ git stash
 git checkout new-branch
 ```
 
+```bash
 git stash apply
+```
+
