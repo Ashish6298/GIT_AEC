@@ -29,11 +29,12 @@ git push origin feature-branch:main
 
 **b. Write the command to stash your changes switch branches and then apply the stashed changes.**
 
+```bash
+git stash
+```
 
 ```bash
 git checkout new-branch
 ```
 
-```bash
-git stash
-```
+git stash apply
