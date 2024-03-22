@@ -1,11 +1,15 @@
 ```bash
-git tag v1.0
+git add .
 ```
 
 ```bash
-git tag -a v1.0.1 -m "This is tag v1.0"
+git commit -m "message"
 ```
 
 ```bash
-git show v1.0.1
+git tag -a v1.0 -m "message"
+```
+
+```bash
+got push origin tag v1.0
 ```
