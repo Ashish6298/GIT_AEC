@@ -34,7 +34,7 @@ git stash
 ```
 
 ```bash
-git checkout new-branch
+git checkout -b new-branch
 ```
 
 ```bash
