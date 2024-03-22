@@ -11,5 +11,5 @@ git tag -a v1.0 -m "message"
 ```
 
 ```bash
-got push origin tag v1.0
+git push origin tag v1.0
 ```
